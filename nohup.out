@@ -1,0 +1,122 @@
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 28, 2023 - 17:05:55
+Django version 5.0, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+[28/Dec/2023 17:06:16] "GET /todos/ HTTP/1.1" 200 3515
+[28/Dec/2023 17:06:25] "GET /todos/ HTTP/1.1" 200 3515
+Performing system checks...
+
+December 28, 2023 - 17:06:07
+Django version 5.0, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 29, 2023 - 12:46:40
+Django version 5.0, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+[29/Dec/2023 12:47:19] "GET /todos/ HTTP/1.1" 200 3515
+[29/Dec/2023 12:48:32] "GET /todos/ HTTP/1.1" 200 3515
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+python3: can't open file '/home/ubuntu/django-todo/systemctl': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/home/ubuntu/django-todo/manage.py", line 10, in main
+    from django.core.management import execute_from_command_line
+ModuleNotFoundError: No module named 'django'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/django-todo/manage.py", line 21, in <module>
+    main()
+  File "/home/ubuntu/django-todo/manage.py", line 12, in main
+    raise ImportError(
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 29, 2023 - 13:17:03
+Django version 5.0, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+[29/Dec/2023 13:17:16] "GET / HTTP/1.1" 302 0
+[29/Dec/2023 13:17:17] "GET /todos HTTP/1.1" 301 0
+[29/Dec/2023 13:17:17] "GET /todos/ HTTP/1.1" 200 3515
+[29/Dec/2023 13:17:19] "GET /static/css/style.css HTTP/1.1" 200 225
+Not Found: /favicon.ico
+[29/Dec/2023 13:17:20] "GET /favicon.ico HTTP/1.1" 404 2574
+[29/Dec/2023 13:32:55] "GET /todos/ HTTP/1.1" 200 3515
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+[29/Dec/2023 13:59:59] "GET /todos/ HTTP/1.1" 200 3515
+Not Found: /favicon.ico
+[29/Dec/2023 14:00:04] "GET /favicon.ico HTTP/1.1" 404 2575
+[29/Dec/2023 14:09:57] "GET /todos/ HTTP/1.1" 200 3515
+Not Found: /favicon.ico
+[29/Dec/2023 14:09:58] "GET /favicon.ico HTTP/1.1" 404 2575
+[29/Dec/2023 14:22:57] "GET / HTTP/1.1" 302 0
